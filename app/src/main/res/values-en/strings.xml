@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">CountryList</string>
     <string name="confirm">confirm</string>
+    <string name="erase">yes</string>
     <string name="selection">You have selected</string>
     <string name="sure">Are you sure you want to delete</string>
-    <string name="erase">yes</string>
 </resources>
